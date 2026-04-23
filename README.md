@@ -61,4 +61,9 @@ If you would like to reach out regarding my research, writing, or academic proje
 ### ✍️ Latest Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ink &amp; Impulse — On Influence](https://medium.com/@inkandimpulse.thearchivist/ink-impulse-vision-intentional-log-04-59be4e2cf672?source=rss-fbb3f3a1b19f------2)
+- [The most human thing people experience is conflict.](https://medium.com/@inkandimpulse.thearchivist/the-most-human-thing-people-experience-is-conflict-1e07c4db60b8?source=rss-fbb3f3a1b19f------2)
+- [Ink &amp; Impulse — A Working Architecture](https://medium.com/@inkandimpulse.thearchivist/ink-impulse-vision-intentional-log-03-cf8f4c9e237b?source=rss-fbb3f3a1b19f------2)
+- [I’ve been reading Incognito and fell down a rabbit hole about human instinct.](https://medium.com/@inkandimpulse.thearchivist/ive-been-reading-incognito-and-fell-down-a-rabbit-hole-about-the-science-of-human-attraction-460600c4fa35?source=rss-fbb3f3a1b19f------2)
+- [Ink &amp; Impulse — Beyond the Garret](https://medium.com/@inkandimpulse.thearchivist/ink-impulse-vision-intentional-log-02-488633112383?source=rss-fbb3f3a1b19f------2)
 <!-- BLOG-POST-LIST:END -->
