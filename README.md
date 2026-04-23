@@ -59,7 +59,3 @@ If you would like to reach out regarding my research, writing, or academic proje
 👉 **[Contact Form: Research & Collaborations](https://forms.gle/5sDbYwq3ZRWELYMw8)**
 
 ### ✍️ Latest Medium Posts
-
-``
-BLOG-POST-LIST:START
-``
