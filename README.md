@@ -50,3 +50,10 @@ My background in the arts has developed my mnemonic retention, rhythmic pattern 
 ### 📊 Status & Goals
 - 📚 **Currently Reading:** Research SOPs and cognitive science journals.
 - 🎯 **2026 Goal:** Securing a research internship to contribute to impactful projects.
+
+---
+
+### 📩 Contact & Inquiries
+If you would like to reach out regarding my research, writing, or academic projects, please use the secure form below:
+
+👉 **[Contact Form: Research & Collaborations]((https://forms.gle/5sDbYwq3ZRWELYMw8))**
