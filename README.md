@@ -56,4 +56,4 @@ My background in the arts has developed my mnemonic retention, rhythmic pattern 
 ### 📩 Contact & Inquiries
 If you would like to reach out regarding my research, writing, or academic projects, please use the secure form below:
 
-👉 **[Contact Form: Research & Collaborations]((https://forms.gle/5sDbYwq3ZRWELYMw8))**
+👉 **[Contact Form: Research & Collaborations](https://forms.gle/5sDbYwq3ZRWELYMw8)**
