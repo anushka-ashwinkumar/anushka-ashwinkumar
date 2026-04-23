@@ -5,7 +5,7 @@
 ---
 
 ### 📖 About Me
-I am a high-performing student at **National Public School, Kudlu**, driven by a passion for the intersection of **Arts and Science**. As a student leader and researcher, I specialize in information synthesis and narrative construction.
+I am a high-performing student, driven by a passion for the intersection of **Arts and Science**. As a student leader and researcher, I specialize in information synthesis and narrative construction.
 
 I am currently exploring **Python** as a technical tool to support my archival research and data analysis goals.
 
