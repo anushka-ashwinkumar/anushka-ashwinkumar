@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anushka Ashwinkumar | CV</title>
+    <style>
+        :root {
+            --primary: #2c3e50;
+            --accent: #6c5ce7;
+            --text: #333;
+            --light-bg: #f8f9fa;
+        }
+
+        body {
+            font-family: 'Georgia', serif; /* Classic academic feel */
+            line-height: 1.6;
+            color: var(--text);
+            max-width: 850px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: #fff;
+        }
+
+        header {
+            text-align: center;
+            border-bottom: 2px solid var(--primary);
+            padding-bottom: 30px;
+            margin-bottom: 40px;
+        }
+
+        h1 { margin: 0; font-size: 2.5rem; color: var(--primary); }
+        .subtitle { font-style: italic; color: var(--accent); font-size: 1.1rem; margin-top: 10px; }
+
+        section { margin-bottom: 40px; }
+        
+        h2 { 
+            font-family: 'Helvetica', sans-serif;
+            text-transform: uppercase;
+            font-size: 1.2rem;
+            letter-spacing: 2px;
+            border-left: 4px solid var(--accent);
+            padding-left: 15px;
+            color: var(--primary);
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        .card {
+            background: var(--light-bg);
+            padding: 20px;
+            border-radius: 8px;
+            border: 1px solid #eee;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+
+        th, td {
+            text-align: left;
+            padding: 12px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th { font-family: sans-serif; font-size: 0.9rem; color: #666; }
+
+        .badge {
+            background: var(--accent);
+            color: white;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            font-family: sans-serif;
+        }
+
+        .btn {
+            display: inline-block;
+            background: var(--primary);
+            color: white;
+            padding: 12px 25px;
+            text-decoration: none;
+            border-radius: 30px;
+            transition: 0.3s;
+            font-family: sans-serif;
+            font-weight: bold;
+        }
+
+        .btn:hover { background: var(--accent); }
+
+        @media (max-width: 600px) {
+            .grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Anushka Ashwinkumar</h1>
+        <div class="subtitle">🎓 School Captain | ✍️ Published Author | 🧬 Cognitive Science Aspirant</div>
+    </header>
+
+    <section id="about">
+        <h2>📖 About Me</h2>
+        <p>
+            I am a high-performing student driven by a passion for the intersection of <strong>Arts and Science</strong>. 
+            As a student leader and researcher, I specialize in information synthesis and narrative construction. 
+            Currently exploring <strong>Python</strong> to support archival research and data analysis goals.
+        </p>
+        <ul>
+            <li>🏆 <strong>Academic Excellence:</strong> 3x School Captain & Grade Topper (95%+ Aggregate)</li>
+            <li>🖋️ <strong>Narrative Expert:</strong> Author of <em>Beyond What You See: The Dawn</em> (2024)</li>
+        </ul>
+    </section>
+
+    <section id="research">
+        <h2>🚀 Research & Writing</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Project</th>
+                    <th>Role</th>
+                    <th>Focus</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Medium (@TheArchivist)</strong></td>
+                    <td>Columnist</td>
+                    <td>Evidence-based essays & source synthesis.</td>
+                </tr>
+                <tr>
+                    <td><strong>Little Women Analysis</strong></td>
+                    <td>Researcher</td>
+                    <td>19th-century domesticity vs. modern narratives.</td>
+                </tr>
+                <tr>
+                    <td><strong>Extensive Literacy Project</strong></td>
+                    <td>Analyst</td>
+                    <td>Systematic analysis of 300+ cross-genre works.</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+    <div class="grid">
+        <section class="card">
+            <h2>🎭 Performing Arts</h2>
+            <ul>
+                <li><strong>Bharatnatyam:</strong> 7+ Years Training (Arangetram Candidate)</li>
+                <li><strong>Karnataka Vocal:</strong> Junior - 95% Distinction (2025)</li>
+                <li><strong>Trinity College:</strong> Theory & Keyboard (Distinction 2025)</li>
+            </ul>
+        </section>
+
+        <section class="card">
+            <h2>🛠️ Toolkit</h2>
+            <ul>
+                <li><strong>Leadership:</strong> Student Council Management</li>
+                <li><strong>Writing:</strong> Manuscript Prep & Qualitative Research</li>
+                <li><strong>Technical:</strong> Python (Basics), Data Logic</li>
+            </ul>
+        </section>
+    </div>
+
+    <section id="goals" style="text-align: center; background: var(--light-bg); padding: 30px; border-radius: 8px;">
+        <h2>📊 2026 Goals</h2>
+        <p>Securing a research internship to contribute to impactful cognitive science projects.</p>
+        <p><em>Currently Reading: Research SOPs and cognitive science journals.</em></p>
+        <br>
+        <a href="https://medium.com/@inkandimpulse.thearchivist" class="btn">📩 Contact For Collaborations</a>
+    </section>
+
+    <footer style="text-align: center; color: #999; font-size: 0.8rem; margin-top: 50px; font-family: sans-serif;">
+        &copy; 2026 Anushka Ashwinkumar. Built with GitHub Pages.
+    </footer>
+
+</body>
+</html>
